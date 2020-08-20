@@ -1,2 +1,3 @@
 # config
 zshrc
+wsl
