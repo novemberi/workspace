@@ -18,7 +18,7 @@
         "brightCyan": "#56b6c2",
         "brightWhite": "#ffffff",
         "background": "#1e2127",
-        "foreground": "#abb2bf"
+        "foreground": "#abb2bf",
     },
     {
         "name": "zsh",
@@ -39,6 +39,6 @@
         "purple" : "#6C71C4",
         "red" : "#DC322F",
         "white" : "#93A1A1",
-        "yellow" : "#B58900"
+        "yellow" : "#B58900",
     }
 ]
