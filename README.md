@@ -1,3 +1,3 @@
-# config
+## Configuration
 zshrc
 wsl
