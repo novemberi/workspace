@@ -1,6 +1,9 @@
 # Workspace
 This repository is sharing my personal settings.
 
+# Theme
+## One Dark Pro
+
 # Font
 ## Meslo LG NF
 Meslo LG is pretty cool nerd font in terminal. There's no need explain.
