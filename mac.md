@@ -18,6 +18,9 @@
 - `git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k`
 - `echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc`
 
+### zsh command not working
+`eval $(/opt/homebrew/bin/brew shellenv)`
+
 ## Powerlevel10k
 - Use meslo nerd font
 - Settings
