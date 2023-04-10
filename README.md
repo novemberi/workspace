@@ -18,3 +18,5 @@ My settings is `'ss01', 'ss03', 'ss04', 'ss05', 'zero'`.<br>
 You can check more options in [Fira Code](https://github.com/tonsky/FiraCode).
 
 ![image](https://user-images.githubusercontent.com/37071240/167919852-a8e8e37b-c14a-45b5-9d78-83709e746baa.png)
+
+Mac setup
