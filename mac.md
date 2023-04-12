@@ -1,10 +1,10 @@
 # Personal macbook settings
 
-## 1. Install brew
+## Setup brew
+### Install
 1. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 2. `echo 'export PATH=/opt/homebrew/bin:$PATH' >> ~/.zshrc`
 
-## 2. Install other tools
 - brew install --cask visual-studio-code
 - brew install --cask iterm2
 - brew install --cask firefox
@@ -15,6 +15,7 @@
   - git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 - brew install 
 - brew install mono
+- brew install dotnet
 
 ## iTerm2
 - `curl -LO https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Dracula.itermcolors`
@@ -36,9 +37,7 @@
 ## Powerlevel10k
 - Use meslo nerd font
 - Settings
-  - Pure
-  - Original
-  - Compact
+  - yyyy1111211121n1y
 
 ## SSH
 - `ssh-keygen`
@@ -51,6 +50,26 @@ git config --global user.email "you@your-domain.com"
 git config --global core.precomposeunicode true
 git config --global core.quotepath false
 ```
+
+## Sublime Merge
+Library/Application Support/Sublime Merge/Packages/Preferences.sublime-settings
+```
+{
+	"font_size": 12,
+	"theme": "Merge Dark.sublime-theme",
+	"time_format": "24h",
+	"ui_scale": 1.3,
+	"render_commit_dialog_message_at_top": true,
+	"expand_merge_commits_by_default": true,
+}
+```
+
+## VSCode
+### Plugins
+- C#
+- Gitlens
+- Dracula Official [theme]
+- Clover [unity support]
 
 ## System Settings
 ### Accessibility
