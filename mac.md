@@ -30,6 +30,10 @@
   - Original
   - Compact
 
+## SSH
+- `ssh-keygen`
+- `pbcopy < ~/.ssh/id_rsa.pub`
+
 ## System Settings
 ### Trackpad
 - Tab to click [ON]
