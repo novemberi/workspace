@@ -104,6 +104,9 @@ Library/Application Support/Sublime Merge/Packages/Preferences.sublime-settings
   - Use trackpad for dragging [ON]
   - Dragging style [Three Finger Drag]
 
+### Desktop & Dock
+- Show recent application in Dock [OFF]
+
 ### Trackpad
 - Tab to click [ON]
 - Natural Scrolling [OFF]
@@ -116,6 +119,6 @@ Library/Application Support/Sublime Merge/Packages/Preferences.sublime-settings
 - Keyboard navigation [ON]
 
 ## Finder
-- (⌘ + ,) Settings
+- Settings (⌘ + ,)
   - Advanced
     - Show all filename extensions
