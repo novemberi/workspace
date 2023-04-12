@@ -7,6 +7,8 @@
 ## 2. Install other tools
 - brew install --cask visual-studio-code
 - brew install --cask iterm2
+- brew install --cask firefox
+- brew install --cask unity-hub
 - brew install zsh
   - sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 - brew install 
