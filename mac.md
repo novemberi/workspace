@@ -17,6 +17,8 @@
 - brew install 
 - brew install mono
 - brew install dotnet
+- brew tap homebrew/cask-fonts
+- brew install --cask font-fira-code
 
 ## iTerm2
 - `curl -LO https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Dracula.itermcolors`
