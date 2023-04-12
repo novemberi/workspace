@@ -21,18 +21,42 @@
 - `curl -LO https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Dracula.itermcolors`
 - Preferences (⌘ + ,)
   - Appearance
-    - Status bar location [Bottom]
-      - Clock, Job Name, git state, CPU Utilization, Memory Utilization
+    - General
+      - Theme: [Minimal]
+      - Status bar location: [Bottom]
+    - Windows
+      - Show line under title bar when the tab bar is not visible [OFF]2
+    - Panes
+      - Side margins: 12
+      - Top & bottom margins: 10
   - Profile
     - Colors
       - and load Color Presets above dracula theme.
+    - Text
+      - Font size: 15
+      - n/n: 110
+      - Use ligatures [ON]
+      - Unicode normalization form: NFC
     - Session
       - Status bar enabled [ON]
+        - Clock, Job Name, git state, CPU Utilization, Memory Utilization
     - Keys
       - Key Mappings
         - Preset - Natural Text Editing
+  - Advanced
+    - In the Minimal theme, how prominent shoult the tab outline be?: 0
 - `git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k`
 - `echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc`
+
+My plugins
+```
+plugins=(
+  git
+  zsh-syntax-highlighting
+  zsh-autosuggestions
+  fasd
+)
+```
 
 ## Powerlevel10k
 - Use meslo nerd font
@@ -45,8 +69,8 @@
 
 ## Git
 ```
-git config --global user.name "Your Name"
-git config --global user.email "you@your-domain.com"
+git config --global user.name "Name"
+git config --global user.email "me@ydomain.com"
 git config --global core.precomposeunicode true
 git config --global core.quotepath false
 ```
