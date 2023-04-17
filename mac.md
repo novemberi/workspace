@@ -15,7 +15,8 @@
   - git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
   - brew install fasd
 - brew install 
-- brew install mono
+- ~~brew install mono~~
+  - Recommend to install [here](https://www.mono-project.com/download/stable/). Install from brew isn't include msbuild.
 - brew install dotnet
 - brew tap homebrew/cask-fonts
 - brew install --cask font-fira-code
