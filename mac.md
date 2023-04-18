@@ -1,5 +1,5 @@
 # Personal macbook settings
-
+This setup based on Ventura.
 ## Setup brew
 ### Install
 1. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
@@ -108,16 +108,19 @@ Library/Application Support/Sublime Merge/Packages/Preferences.sublime-settings
 ### Desktop & Dock
 - Show recent application in Dock [OFF]
 
-### Trackpad
-- Tab to click [ON]
-- Natural Scrolling [OFF]
-- Mission Control [Swipe Up with Four Fingers]
-
 ### Lock Screen
 - Require password after screen saver begins or display is turned off [Immediately]
 
 ### Keyboard
 - Keyboard navigation [ON]
+- Keyboard Shortcuts
+  - Function Keys
+    - Use F1, F2, etc. keys as standard function keys [ON]
+
+### Trackpad
+- Tab to click [ON]
+- Natural Scrolling [OFF]
+- Mission Control [Swipe Up with Four Fingers]
 
 ## Finder
 - Settings (⌘ + ,)
