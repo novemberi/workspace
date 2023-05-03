@@ -1,3 +1,4 @@
+![image](iterm.png)
 # Personal macbook settings
 This setup based on Ventura.
 ## Setup brew
